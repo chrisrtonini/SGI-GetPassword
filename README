@@ -1,0 +1,41 @@
+SGI::GetPassword
+
+Pacote utilitário contendo classe estática cuja implementação oferece apenas
+um método ('Get'). Este método é responsável pela apresentação de prompt
+(opcional) no terminal de usuário, para coleta de string. A cada caracter
+digitado, é apresentado um "*" no terminal. Próprio para obtenção de senhas.
+
+
+INSTALAÇÃO
+
+Para instalar este módulo, execute os seguintes comandos:
+
+	perl Makefile.PL
+	make
+	make test
+	make install
+
+
+SUPORTE E DOCUMENTAÇÃO
+
+Uma vez instalado, você pode obter documentação para este módulo com o
+comando perldoc.
+
+    perldoc SGI::GetPassword
+
+Você pode também procurar informação em:
+
+	Repositório de fontes de projeto
+		https://github.com/chrisrtonini/SGI-GetPassword
+
+
+LICENÇA E COPYRIGHT
+
+Copyright 2015 Chris Robert Tonini
+
+Este software e' livre, licenciado sob:
+
+    The GNU Lesser General Public License, Version 2.1, February 1999.
+
+O texto original pode ser encontrado na integra em:
+    http://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
