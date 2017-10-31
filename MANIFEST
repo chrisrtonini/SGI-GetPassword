@@ -1,11 +1,13 @@
+CODE_OF_CONDUCT.md
+CONTRIBUTING.md
 Changes
-lib/SGI/GetPassword.pm
-Makefile.PL
 LICENSE
 MANIFEST			This list of files
 MANIFEST.SKIP
+Makefile.PL
 README
 SIGNATURE
+lib/SGI/GetPassword.pm
 t/00-load.t
 t/01-Get.t
 t/boilerplate.t

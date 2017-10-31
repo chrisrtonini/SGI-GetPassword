@@ -1,5 +1,14 @@
 Historico de revisoes de SGI::GetPassword
 
-0.01	Data/hora
+Versao	Data/hora
 0.01	30-10-2017/17:40
 		Versao original do pacote, para instalacao isoladamente.
+
+0.02	31-10-2017/17:30
+		Incluidos:
+			- Codigo de conduta
+			- Contribuicoes desejadas
+			- Licenca
+		Melhorada a documentacao do modulo, mudando a codificacao POD de
+		"cp850" para "utf8", melhorando a producao do manual, depois da
+		instalacao.
